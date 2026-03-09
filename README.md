@@ -1,16 +1,46 @@
-## Hi there 👋
+# Hi, I'm Anna 👋
 
-<!--
-**anna-rottsy/anna-rottsy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+System Analyst | IT Product Development | Future Software Engineer
 
-Here are some ideas to get you started:
+## About me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+• 6+ years in IT  
+• System & Business Analysis  
+• Project Management  
+• Product Development  
+
+I specialize in turning complex ideas into structured technical solutions.
+
+Currently focusing on:
+
+- System Design
+- Frontend Development
+- Product Architecture
+- Data Analytics
+
+## Tech & Tools
+
+System Analysis  
+UML • BPMN • Requirements Engineering
+
+Development  
+JavaScript • React • API Integration
+
+Data  
+SQL • BI • Analytics
+
+## Projects
+
+🔹 Task Manager App  
+Productivity web application
+
+🔹 Analytics Dashboard  
+Data visualization project
+
+🔹 System Design: Banking Platform  
+Architecture and technical documentation
+
+## Connect with me
+
+LinkedIn    https://www.linkedin.com/in/anna-rottsy/
+Email      a.m.rottsy@gmai.com
